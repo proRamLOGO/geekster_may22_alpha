@@ -32,3 +32,11 @@ public class NatNums {
     }
 
 }
+
+
+
+
+// if year div by 400 -> yes
+// else if div by 100 -> no
+// else if  div by 4 -> yes
+// else no
